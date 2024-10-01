@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/0007-reverse-integer) |
 ## String
 |  |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

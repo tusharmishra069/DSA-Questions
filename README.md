@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharmishra069/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
+| [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Divide and Conquer
 |  |
 | ------- |

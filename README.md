@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tusharmishra069/DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tusharmishra069/DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->

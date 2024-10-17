@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0670-maximum-swap](https://github.com/tusharmishra069/DSA-Questions/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/tusharmishra069/DSA-Questions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tusharmishra069/DSA-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tusharmishra069/DSA-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

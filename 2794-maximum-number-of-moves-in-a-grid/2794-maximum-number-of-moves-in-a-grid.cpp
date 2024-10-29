@@ -12,9 +12,9 @@ public:
             int max_moves = 0;
             std::vector<std::pair<int, int>> directions = {{-1, 1}, {0, 1}, {1, 1}};
             
-            for (auto [dr, dc] : directions) {
-                int new_row = row + dr;
-                int new_col = col + dc;
+            for (auto direction : directions) {
+                int new_row = row + direction.first;
+                int new_col = col + direction.second;
                 if (new_row >= 0 && new_row < m && new_col < n && grid[new_row][new_col] > grid[row][col]) {
                     max_moves = std::max(max_moves, 1 + dfs_ref(new_row, new_col, dfs_ref));
                 }

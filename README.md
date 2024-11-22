@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/tusharmishra069/DSA-Questions/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tusharmishra069/DSA-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tusharmishra069/DSA-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tusharmishra069/DSA-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |

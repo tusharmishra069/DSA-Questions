@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/tusharmishra069/DSA-Questions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/tusharmishra069/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tusharmishra069/DSA-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/tusharmishra069/DSA-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1923-sentence-similarity-iii) |

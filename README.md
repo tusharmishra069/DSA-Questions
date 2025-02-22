@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tusharmishra069/DSA-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tusharmishra069/DSA-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -327,11 +329,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tusharmishra069/DSA-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2201-valid-arrangement-of-pairs) |

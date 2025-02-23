@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0787-sliding-puzzle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/tusharmishra069/DSA-Questions/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |

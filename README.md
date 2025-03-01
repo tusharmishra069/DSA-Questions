@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tusharmishra069/DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tusharmishra069/DSA-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/tusharmishra069/DSA-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tusharmishra069/DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tusharmishra069/DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tusharmishra069/DSA-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2551-apply-operations-to-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tusharmishra069/DSA-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tusharmishra069/DSA-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tusharmishra069/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/tusharmishra069/DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tusharmishra069/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/tusharmishra069/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/tusharmishra069/DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/tusharmishra069/DSA-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |

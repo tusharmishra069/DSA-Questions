@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/tusharmishra069/DSA-Questions/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tusharmishra069/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tusharmishra069/DSA-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tusharmishra069/DSA-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tusharmishra069/DSA-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tusharmishra069/DSA-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tusharmishra069/DSA-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tusharmishra069/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |

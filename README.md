@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tusharmishra069/DSA-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tusharmishra069/DSA-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/tusharmishra069/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tusharmishra069/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tusharmishra069/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tusharmishra069/DSA-Questions/tree/master/0768-partition-labels) |

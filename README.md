@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tusharmishra069/DSA-Questions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharmishra069/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tusharmishra069/DSA-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |

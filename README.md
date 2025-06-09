@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/tusharmishra069/DSA-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tusharmishra069/DSA-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |

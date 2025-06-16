@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/tusharmishra069/DSA-Questions/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/tusharmishra069/DSA-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/tusharmishra069/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tusharmishra069/DSA-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/2179-most-beautiful-item-for-each-query) |

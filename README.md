@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/tusharmishra069/DSA-Questions/tree/master/1500-count-largest-group) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tusharmishra069/DSA-Questions/tree/master/1694-make-sum-divisible-by-p) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/tusharmishra069/DSA-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tusharmishra069/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tusharmishra069/DSA-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tusharmishra069/DSA-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1923-sentence-similarity-iii) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/tusharmishra069/DSA-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tusharmishra069/DSA-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tusharmishra069/DSA-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |

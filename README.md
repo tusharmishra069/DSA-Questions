@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tusharmishra069/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/tusharmishra069/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/tusharmishra069/DSA-Questions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/tusharmishra069/DSA-Questions/tree/master/0797-rabbits-in-forest) |

@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tusharmishra069/DSA-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/2050-count-good-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tusharmishra069/DSA-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/tusharmishra069/DSA-Questions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/tusharmishra069/DSA-Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tusharmishra069/DSA-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/tusharmishra069/DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tusharmishra069/DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |

@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tusharmishra069/DSA-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tusharmishra069/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/tusharmishra069/DSA-Questions/tree/master/2580-circular-sentence) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/tusharmishra069/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/tusharmishra069/DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/tusharmishra069/DSA-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tusharmishra069/DSA-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tusharmishra069/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/tusharmishra069/DSA-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |

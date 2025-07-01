@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tusharmishra069/DSA-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3451-string-compression-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tusharmishra069/DSA-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

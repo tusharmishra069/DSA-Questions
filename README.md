@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tusharmishra069/DSA-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3451-string-compression-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tusharmishra069/DSA-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tusharmishra069/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3618-find-the-original-typed-string-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tusharmishra069/DSA-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tusharmishra069/DSA-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tusharmishra069/DSA-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sorting

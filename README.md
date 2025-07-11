@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tusharmishra069/DSA-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/tusharmishra069/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tusharmishra069/DSA-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2479-meeting-rooms-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tusharmishra069/DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tusharmishra069/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/tusharmishra069/DSA-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tusharmishra069/DSA-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tusharmishra069/DSA-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2479-meeting-rooms-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tusharmishra069/DSA-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tusharmishra069/DSA-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tusharmishra069/DSA-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2479-meeting-rooms-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/tusharmishra069/DSA-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/tusharmishra069/DSA-Questions/tree/master/2681-put-marbles-in-bags) |

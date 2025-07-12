@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/tusharmishra069/DSA-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/tusharmishra069/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/tusharmishra069/DSA-Questions/tree/master/2262-solving-questions-with-brainpower) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/tusharmishra069/DSA-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |

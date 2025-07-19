@@ -1,19 +1,18 @@
 class Solution {
-public:
-    vector<string> removeSubfolders(vector<string>& folder) {
-    sort(folder.begin(), folder.end());
+ public:
+  vector<string> removeSubfolders(vector<string>& folder) {
+    vector<string> ans;
+    string prev;
 
-    vector<string> result;
+    ranges::sort(folder);
 
-    result.push_back(folder[0]);
-    
-    for (int i = 1; i < folder.size(); ++i) {
-        string lastFolder = result.back();
-        if (folder[i].substr(0, lastFolder.size()) != lastFolder || folder[i][lastFolder.size()] != '/') {
-            result.push_back(folder[i]);
-        }
+    for (const string& f : folder) {
+      if (!prev.empty() && f.find(prev) == 0 && f[prev.length()] == '/')
+        continue;
+      ans.push_back(f);
+      prev = f;
     }
-    
-    return result;
-    }
+
+    return ans;
+  }
 };

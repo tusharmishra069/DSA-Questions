@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tusharmishra069/DSA-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tusharmishra069/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |

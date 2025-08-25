@@ -4,7 +4,7 @@ public:
         int idx = 0;
         int n = chars.size();
 
-        for(int i = 0; i<n; i++){
+        for(int i = 0; i<n;){
             char ch = chars[i];
             int count = 0;
 
@@ -24,7 +24,6 @@ public:
                     chars[idx++] =  dig;
                 }
             }
-            i--;
         }
 
         chars.resize(idx);

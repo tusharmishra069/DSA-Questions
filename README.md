@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tusharmishra069/DSA-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/tusharmishra069/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tusharmishra069/DSA-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/tusharmishra069/DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tusharmishra069/DSA-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tusharmishra069/DSA-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3647-zero-array-transformation-iii) |

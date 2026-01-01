@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tusharmishra069/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tusharmishra069/DSA-Questions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/tusharmishra069/DSA-Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tusharmishra069/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tusharmishra069/DSA-Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/tusharmishra069/DSA-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/tusharmishra069/DSA-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/tusharmishra069/DSA-Questions/tree/master/0368-largest-divisible-subset) |

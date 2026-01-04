@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/tusharmishra069/DSA-Questions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tusharmishra069/DSA-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tusharmishra069/DSA-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1390-four-divisors](https://github.com/tusharmishra069/DSA-Questions/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tusharmishra069/DSA-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tusharmishra069/DSA-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/tusharmishra069/DSA-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tusharmishra069/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/tusharmishra069/DSA-Questions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/tusharmishra069/DSA-Questions/tree/master/0797-rabbits-in-forest) |
+| [1390-four-divisors](https://github.com/tusharmishra069/DSA-Questions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tusharmishra069/DSA-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/tusharmishra069/DSA-Questions/tree/master/1448-maximum-69-number) |

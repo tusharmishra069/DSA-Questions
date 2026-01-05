@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/tusharmishra069/DSA-Questions/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/tusharmishra069/DSA-Questions/tree/master/2048-build-array-from-permutation) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tusharmishra069/DSA-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tusharmishra069/DSA-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/tusharmishra069/DSA-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tusharmishra069/DSA-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/tusharmishra069/DSA-Questions/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tusharmishra069/DSA-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |

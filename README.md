@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tusharmishra069/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/tusharmishra069/DSA-Questions/tree/master/0238-product-of-array-except-self) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tusharmishra069/DSA-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/tusharmishra069/DSA-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tusharmishra069/DSA-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/tusharmishra069/DSA-Questions/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tusharmishra069/DSA-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/tusharmishra069/DSA-Questions/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tusharmishra069/DSA-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tusharmishra069/DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0085-maximal-rectangle) |
 | [0787-sliding-puzzle](https://github.com/tusharmishra069/DSA-Questions/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/tusharmishra069/DSA-Questions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tusharmishra069/DSA-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |

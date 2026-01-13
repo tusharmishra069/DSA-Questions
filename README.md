@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3429-special-array-i) |
+| [3453-separate-squares-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3453-separate-squares-i) |
 | [3483-alternating-groups-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/tusharmishra069/DSA-Questions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3453-separate-squares-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |

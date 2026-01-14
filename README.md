@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3429-special-array-i) |
 | [3453-separate-squares-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3454-separate-squares-ii) |
 | [3483-alternating-groups-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tusharmishra069/DSA-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3453-separate-squares-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/tusharmishra069/DSA-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
@@ -913,4 +916,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/tusharmishra069/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->

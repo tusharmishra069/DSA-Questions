@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tusharmishra069/DSA-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tusharmishra069/DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tusharmishra069/DSA-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/tusharmishra069/DSA-Questions/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/tusharmishra069/DSA-Questions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tusharmishra069/DSA-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tusharmishra069/DSA-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/tusharmishra069/DSA-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/tusharmishra069/DSA-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -923,4 +925,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3454-separate-squares-ii) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tusharmishra069/DSA-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->

@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tusharmishra069/DSA-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/tusharmishra069/DSA-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tusharmishra069/DSA-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tusharmishra069/DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tusharmishra069/DSA-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/tusharmishra069/DSA-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tusharmishra069/DSA-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2868-continuous-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -884,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/2868-continuous-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -940,4 +946,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tusharmishra069/DSA-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

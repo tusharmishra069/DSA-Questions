@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tusharmishra069/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tusharmishra069/DSA-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-largest-magic-square](https://github.com/tusharmishra069/DSA-Questions/tree/master/1895-largest-magic-square) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tusharmishra069/DSA-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tusharmishra069/DSA-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/tusharmishra069/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tusharmishra069/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tusharmishra069/DSA-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tusharmishra069/DSA-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tusharmishra069/DSA-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1923-sentence-similarity-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/tusharmishra069/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tusharmishra069/DSA-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tusharmishra069/DSA-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tusharmishra069/DSA-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/2089-maximum-matrix-sum) |

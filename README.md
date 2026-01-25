@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/tusharmishra069/DSA-Questions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tusharmishra069/DSA-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/tusharmishra069/DSA-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/tusharmishra069/DSA-Questions/tree/master/2048-build-array-from-permutation) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/tusharmishra069/DSA-Questions/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/tusharmishra069/DSA-Questions/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tusharmishra069/DSA-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/tusharmishra069/DSA-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/tusharmishra069/DSA-Questions/tree/master/2478-longest-nice-subarray) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tusharmishra069/DSA-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tusharmishra069/DSA-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/tusharmishra069/DSA-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tusharmishra069/DSA-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

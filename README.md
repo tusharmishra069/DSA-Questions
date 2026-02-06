@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tusharmishra069/DSA-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tusharmishra069/DSA-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/tusharmishra069/DSA-Questions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tusharmishra069/DSA-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3634-minimum-removals-to-balance-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |

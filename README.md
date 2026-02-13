@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tusharmishra069/DSA-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tusharmishra069/DSA-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/tusharmishra069/DSA-Questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tusharmishra069/DSA-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tusharmishra069/DSA-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3714-longest-balanced-substring-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tusharmishra069/DSA-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/tusharmishra069/DSA-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |

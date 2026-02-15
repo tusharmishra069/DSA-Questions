@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tusharmishra069/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tusharmishra069/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/tusharmishra069/DSA-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tusharmishra069/DSA-Questions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/tusharmishra069/DSA-Questions/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/tusharmishra069/DSA-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/tusharmishra069/DSA-Questions/tree/master/0368-largest-divisible-subset) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tusharmishra069/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/tusharmishra069/DSA-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tusharmishra069/DSA-Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/tusharmishra069/DSA-Questions/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/tusharmishra069/DSA-Questions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/tusharmishra069/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0344-reverse-string) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tusharmishra069/DSA-Questions/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/tusharmishra069/DSA-Questions/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/tusharmishra069/DSA-Questions/tree/master/2211-count-collisions-on-a-road) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tusharmishra069/DSA-Questions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/tusharmishra069/DSA-Questions/tree/master/0342-power-of-four) |
 | [1940-maximum-xor-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |

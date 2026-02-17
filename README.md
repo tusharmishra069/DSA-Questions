@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/tusharmishra069/DSA-Questions/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/tusharmishra069/DSA-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tusharmishra069/DSA-Questions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/tusharmishra069/DSA-Questions/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/tusharmishra069/DSA-Questions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/tusharmishra069/DSA-Questions/tree/master/0401-binary-watch) |
 | [1940-maximum-xor-for-each-query](https://github.com/tusharmishra069/DSA-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tusharmishra069/DSA-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tusharmishra069/DSA-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

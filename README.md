@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/tusharmishra069/DSA-Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/tusharmishra069/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/tusharmishra069/DSA-Questions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/tusharmishra069/DSA-Questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0868-push-dominoes) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tusharmishra069/DSA-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/tusharmishra069/DSA-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/tusharmishra069/DSA-Questions/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/tusharmishra069/DSA-Questions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/tusharmishra069/DSA-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/tusharmishra069/DSA-Questions/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/tusharmishra069/DSA-Questions/tree/master/0941-sort-array-by-parity) |
